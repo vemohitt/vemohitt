@@ -6,9 +6,13 @@ I'm a Master’s student in Computer Engineering at Stony Brook University, spec
 🚀 What I’m Working On
 
 Network Driver Development: Building a Linux NIC driver for Xilinx FPGA to optimize AXI DMA data transfer and improve CPU efficiency.
+
 Network Performance Optimization: Utilizing DPDK, VPP, and multithreading for low-latency packet processing.
+
 Systems & OS Internals: Delving into kernel programming, memory management, and scheduling for enhanced system performance.
+
 🔍 Let’s Connect
+
 I’m eager to collaborate on projects related to networking, OS development, and system programming. If you’re exploring high-performance computing, Linux internals, or FPGA-based network solutions, let’s connect!
 
 ## 🌐 Socials:
