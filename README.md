@@ -1,6 +1,14 @@
-# 💫 About Me:
-I’m currently pursuing my Master’s in Computer Engineering at Stony Brook University, focusing on subjects like Computer Architecture, Operating Systems, Network Analysis, and Algorithms. Alongside , I am working on optimizing data plane performance using DPDK and enhancing system-level performance in telecom and network systems.<br>I’m looking to collaborate on projects involving network performance optimization, system-level programming, and low-latency networking solutions.<br>I’m seeking help with exploring new tools and techniques in computer networking, particularly in areas related to kernel programming and advanced system architecture.<br><br>I’m diving deeper into computer architecture, parallel processing, and advanced algorithms as part of my graduate studies.<br>Ask me about 5G network architecture, system-level programming, or how to optimize network traffic flows using DPDK.<br>
+# 
+💡 About Me
+I'm a Master’s student in Computer Engineering at Stony Brook University, specializing in systems programming, OS internals, and high-performance networking. Currently, I’m developing a Linux network driver for Xilinx FPGA, focusing on efficient data transfer and resource optimization. My broader work includes optimizing data plane performance with DPDK and enhancing real-time network processing.
 
+🚀 What I’m Working On
+
+Network Driver Development: Building a Linux NIC driver for Xilinx FPGA to optimize AXI DMA data transfer and improve CPU efficiency.
+Network Performance Optimization: Utilizing DPDK, VPP, and multithreading for low-latency packet processing.
+Systems & OS Internals: Delving into kernel programming, memory management, and scheduling for enhanced system performance.
+🔍 Let’s Connect
+I’m eager to collaborate on projects related to networking, OS development, and system programming. If you’re exploring high-performance computing, Linux internals, or FPGA-based network solutions, let’s connect!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohit-kumar-verma-a94962150/) 
